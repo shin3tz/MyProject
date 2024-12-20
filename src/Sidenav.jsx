@@ -28,7 +28,7 @@ import TuneIcon from "@mui/icons-material/Tune";
 import EventNoteIcon from "@mui/icons-material/EventNote";
 import { TextField, Button, Grid } from "@mui/material";
 
-const drawerWidth = 240;
+const drawerWidth = 250;
 
 const openedMixin = (theme) => ({
   width: drawerWidth,
